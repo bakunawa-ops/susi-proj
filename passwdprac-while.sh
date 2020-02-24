@@ -2,6 +2,7 @@
 # Author: s3cr3cy.is.m49ic
 # While loop exercise
 # This script validates password if correctly written.
+# This is a test
 
 Pass1='Put-your-first-pass-here'
 
